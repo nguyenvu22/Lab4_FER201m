@@ -1,0 +1,14 @@
+$color-1: rgb(96, 63, 152);
+$color-2:#007bff;
+$color-3: #dc3545;
+$color-4: #ffc409;
+
+$carousel-item-min-height: 300px;
+
+@mixin margin-each-div($margin-top, $margin-bottom) {
+    margin-top: $margin-top;
+    margin-bottom: $margin-bottom;
+}
+
+// mt-5 = 3rem
+
